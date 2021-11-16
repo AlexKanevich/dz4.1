@@ -1,0 +1,88 @@
+body {
+	background: url(https://user.diafan.ru/userfiles/forum/imgs/6387_fon.jpg ) fixed;
+	font-size: 20px;
+	font-family: "Shippori", "Antique", sans-serif;
+}
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+
+
+
+
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+
+}
+
+
+
+.logo img {
+	height: 150px;
+	width: 150px;
+}
+
+
+.main {
+	display: flex;
+	flex-direction: row;
+}
+
+.main_left {
+	margin: 0 60px 0 0;
+}
+.click {
+	padding-bottom: 10px;
+	padding-top: 30px;
+}
+
+.main_center {
+	margin-top: 30px;
+}
+h2 {
+	text-align:center ;
+}
+p {
+	text-align: left;
+}
+.ff {
+	text-align: right;
+}
+
+.main_right {
+	margin: 0 0 0 60px;
+}
+
+.picture {
+	width: 10px;
+	padding-top: 30px;
+}
+
+.foot {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.ground_1 {
+	display: flex;
+	flex-direction: row;
+}
+.li {
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
+li {
+	list-style-type: none;
+}
+
+
